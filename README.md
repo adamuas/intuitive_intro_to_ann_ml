@@ -13,7 +13,7 @@ I also plan on taking you through a journey of how of some decisions made in the
 
 ### Learning Philosophy
 Build an intuition for everything (a mental feel of how it works and how it will react to different things)
-* Only Theory that can be demonstrated.
+* Limit to only theoretical concepts that cab be practically demonstrated.
 * Learn by Case study.
 * Learn the nitty-gritty by hands-on implementation from scratch.
 
